@@ -1,9 +1,11 @@
 Análise de Dados Sazonais de Vendas
 
 Descrição do Projeto
+
 Este projeto visa analisar as tendências sazonais nas vendas de uma empresa de e-commerce, utilizando dados históricos. O foco está em identificar padrões mensais e anuais nas vendas, bem como variações percentuais ano a ano, proporcionando insights valiosos para estratégias de negócios.
 
 Funcionalidades
+
 Consulta de Dados: Extração de dados de vendas do BigQuery.
 Análise Sazonal: Identificação de tendências sazonais nas vendas.
 Visualização de Dados: Gráficos demonstrando as vendas totais, vendas do ano anterior e variações percentuais.
